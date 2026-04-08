@@ -1,6 +1,6 @@
 # 👋 Arthur (Yotei-san)
 
-🚀 Building Yotei Profile — a customizable bio platform inspired by modern web apps.
+🚀 Building Yotei Profile — a customizable bio platform inspired by modern SaaS products.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 💻 Developing a real SaaS project (Yotei Profile)
 - 📚 Learning by building, not just studying
-- 🎯 Goal: become a professional developer
+- 🎯 Goal: become a fullstack developer and build real-world products
 - ⚡ Focus: Next.js, TypeScript, Fullstack
 
 ---
@@ -16,7 +16,7 @@
 ## 🚀 Main Project
 
 ### 🔗 Yotei Profile
-Customizable profile platform inspired by Linktree and Haunt
+Inspired by platforms like Linktree and Haunt, focused on customization and user experience
 
 **Current features:**
 - Authentication
@@ -48,6 +48,10 @@ Customizable profile platform inspired by Linktree and Haunt
 - [x] Profile system
 - [ ] Comments system
 - [ ] UI improvements
+
+## 📌 Status
+
+🚧 Actively in development
 
 ---
 
