@@ -1,58 +1,85 @@
-# 👋 Arthur (Yotei-san)
+# 👋 Hey, I'm Arthur — aka Yotei
 
-🚀 Building Yotei Profile — a customizable bio platform inspired by modern SaaS products.
+I'm a developer from Brazil building modern web products with **Next.js, TypeScript, Prisma, PostgreSQL, Vercel and AI-assisted workflows**.
 
----
-
-## 🧠 About me
-
-- 💻 Developing a real SaaS project (Yotei Profile)
-- 📚 Learning by building, not just studying
-- 🎯 Goal: become a fullstack developer and build real-world products
-- ⚡ Focus: Next.js, TypeScript, Fullstack
+Currently, I'm focused on building **Yotei Profile** — a premium digital identity platform for creators, gamers and developers who want beautiful public profiles, custom links, analytics, badges, reactions and visual customization.
 
 ---
 
-## 🚀 Main Project
+## 🚀 Current Focus
 
-### 🔗 Yotei Profile
-Inspired by platforms like Linktree and Haunt, focused on customization and user experience
-
-**Current features:**
-- Authentication
-- Dashboard
-- Profile customization
-- Dynamic links
-
-**Stack:**
-- Next.js
-- TypeScript
-- Prisma
+- Building premium SaaS-style products
+- Improving frontend/UI/UX skills
+- Learning scalable backend architecture
+- Working with AI-assisted development workflows
+- Turning ideas into real deployed products
 
 ---
 
 ## 🛠️ Tech Stack
 
-- TypeScript
-- JavaScript
-- React
+**Frontend**
 - Next.js
+- React
+- TypeScript
+- Tailwind CSS / CSS-in-JS
+- Framer Motion
+
+**Backend**
 - Prisma
+- PostgreSQL
+- Neon
+- Authentication / Sessions
+- API Routes
+
+**Tools**
+- Vercel
+- Git / GitHub
+- Stripe
+- AI tools for development
+- VS Code
 
 ---
 
-## 📈 Progress
+## 🌌 Main Project
 
-- [x] Authentication
-- [x] Dashboard
-- [x] Profile system
-- [ ] Comments system
-- [ ] UI improvements
+### 🔥 Yotei Profile
 
-## 📌 Status
+A premium profile platform inspired by modern creator identity products.
 
-🚧 Actively in development
+Features include:
+
+- Public customizable profiles
+- Premium links
+- Avatar decorations
+- Video/image banners
+- Profile reactions
+- View and click analytics
+- Badges and status
+- Dashboard for customization
+- Stripe-ready premium system
+
+> Goal: build a product that looks and feels international, premium and commercially viable.
 
 ---
 
-⭐ Building every day.
+## 📈 What I'm improving right now
+
+- Advanced UI polish
+- Product design
+- SaaS architecture
+- Performance optimization
+- GitHub/Vercel deployment workflow
+- International product positioning
+
+---
+
+## 📫 Connect
+
+- GitHub: [@Yotei-san](https://github.com/Yotei-san)
+- Portfolio: coming soon
+- Main project: Yotei Profile
+
+---
+
+> Building my way up — one product at a time.
