@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Arthur — aka Yotei
 
-I'm a developer from Brazil building modern web products with **Next.js, TypeScript, Prisma, PostgreSQL, Vercel and AI-assisted workflows**.
+I'm a developer from Brazil building modern web products with **Next.js, TypeScript, Prisma, PostgreSQL, Vercel**.
 
 Currently, I'm focused on building **Yotei Profile** — a premium digital identity platform for creators, gamers and developers who want beautiful public profiles, custom links, analytics, badges, reactions and visual customization.
 
@@ -11,7 +11,7 @@ Currently, I'm focused on building **Yotei Profile** — a premium digital ident
 - Building premium SaaS-style products
 - Improving frontend/UI/UX skills
 - Learning scalable backend architecture
-- Working with AI-assisted development workflows
+- Working with  development workflows
 - Turning ideas into real deployed products
 
 ---
